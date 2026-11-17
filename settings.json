@@ -1,0 +1,18 @@
+{
+  "daily_hour": 13,
+  "arxiv": true,
+  "lookback_days": 7,
+  "highlights": 5,
+  "daily_tokens": 90000,
+  "monthly_tokens": 1800000,
+  "cost": {"max_price_per_million_tokens": 0, "daily_limit": 0, "monthly_limit": 0},
+  "discussion_tokens": 12000,
+  "report_reserve": 18000,
+  "discussion_seconds": 150,
+  "pmlr": ["ICML"],
+  "cvf": ["CVPR", "ICCV"],
+  "journals": [
+    {"name": "TPAMI", "issn": "0162-8828"},
+    {"name": "IJCV", "issn": "0920-5691"}
+  ]
+}
